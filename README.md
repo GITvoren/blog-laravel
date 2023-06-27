@@ -27,6 +27,8 @@ Step 1
 - Open XAMPP
   - Start Apache
   - Start MySQL
+
+
 Step 2
 - Open Terminal / Git Bash
   - `php artisan serve`
