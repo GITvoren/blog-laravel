@@ -19,6 +19,9 @@ This is submitted as a final requirement (capstone project) on the short Laravel
 
 ## Built with
 - [Laravel](https://laravel.com/)
-
-
-
+- [MySQL](https://www.mysql.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [PHP](https://www.php.net/)
+- [XAMPP](https://www.apachefriends.org/)
+- [phpMyAdmin](https://www.phpmyadmin.net/)
+- [Apache](https://httpd.apache.org/)
