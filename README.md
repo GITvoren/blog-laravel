@@ -17,6 +17,22 @@ This is submitted as a final requirement (capstone project) on the short Laravel
 - Comment on post
 - Retrieve specific post
 
+## Installation Guide
+Requirements:
+- [XAMPP](https://www.apachefriends.org/)
+- [Composer](https://getcomposer.org/)
+
+Step 1
+- Clone Repo
+- Open XAMPP
+  - Start Apache
+  - Start MySQL
+Step 2
+- Open Terminal / Git Bash
+  - `php artisan serve`
+- Open another Terminal
+  - `npm run dev`
+
 ## Built with
 - [Laravel](https://laravel.com/)
 - [MySQL](https://www.mysql.com/)
