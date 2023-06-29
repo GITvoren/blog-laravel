@@ -30,7 +30,7 @@ Step 1
 
 
 Step 2
-- Open Terminal / Git Bash
+- Open Terminal / Git Bash on the Project Folder
   - `php artisan serve`
 - Open another Terminal
   - `npm run dev`
