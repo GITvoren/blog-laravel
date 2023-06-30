@@ -34,6 +34,12 @@ Step 2
   - `php artisan serve`
 - Open another Terminal
   - `npm run dev`
+- Check Browser and Routes
+  - `{{localhost}}/`
+  - `{{localhost}}/login`
+  - `{{localhost}}/register`
+  - `{{localhost}}/posts`
+  - `{{localhost}}/posts/create`
 
 ## Built with
 - [Laravel](https://laravel.com/)
